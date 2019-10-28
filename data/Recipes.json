@@ -1,0 +1,25 @@
+{
+   "ID": 192312,
+   "Name": "заточка",
+   "IconIndex": 213,
+   "Result": [
+   {
+       "Type": "weapon",
+       "ID": 99999,
+       "Amount": 1
+   }
+   ],
+   "Requires": [
+   {
+       "Type": "item",
+       "ID": 1337,
+       "Amount": 99
+   }
+   ],
+   "Discipline": ID,
+   "Category": ["Swords", "Weapons"],
+   "XP": 999999999,
+   "LevelReq": 150,
+   "Learned": "command"
+   
+}

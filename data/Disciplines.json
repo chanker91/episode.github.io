@@ -1,0 +1,18 @@
+{
+   "ID": 999,
+   "Name": "NAME",
+   "IconID": 1337,
+   "ExpFormula": "10000*level",
+   "MaxLevel": 2,
+   "Categories": ["1", "2", "3", ... , "n"],
+   "Background": "FileName"
+}
+
+And file structure looks like this:
+[
+null,
+object,
+object,
+...,
+object
+]

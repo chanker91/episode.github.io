@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"никита","characterIndex":0,"characterName":"никита","classId":1,"equips":[5,0,0,0,0],"faceIndex":0,"faceName":"никита","traits":[],"initialLevel":1,"maxLevel":99,"name":"Никита","nickname":"","note":"","profile":"Он же никита"},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"joe","characterIndex":0,"characterName":"joe","classId":1,"equips":[5,0,0,0,0],"faceIndex":0,"faceName":"joe","traits":[],"initialLevel":1,"maxLevel":99,"name":"Джо","nickname":"","note":"","profile":"любит Диснеевские мультфильмы и играть в игры от Mega\n Cool."},
+{"id":4,"battlerName":"ben","characterIndex":0,"characterName":"ben","classId":1,"equips":[5,0,0,0,0],"faceIndex":0,"faceName":"ben","traits":[],"initialLevel":1,"maxLevel":100,"name":"Бен","nickname":"","note":"","profile":"Неизвестно."},
+{"id":5,"battlerName":"Actor1_1","characterIndex":0,"characterName":"alice","classId":1,"equips":[5,0,0,0,0],"faceIndex":0,"faceName":"Masha","traits":[],"initialLevel":1,"maxLevel":100,"name":"Элис","nickname":"","note":"","profile":"плохо удалась жизнь, везде унижали и называли\nчернокожим животным и лишь миф о прекрасной школе обрадовал!"}
+]
